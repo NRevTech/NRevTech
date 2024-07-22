@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NRevTech
-- 👀 I’m interested in learning everything that I can about computers.
-- 🌱 I’m currently learning Network Technology.
+- 👋 Hi, I’m Revin
+- 👀 Currently a Network Engineer learning how to program
+- 🌱 Bachelors in Network Technology and Telecommunications
 - 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me - Twitter: @Matthew72264694
+- 📫 NEVER!
 
 <!---
 NRevTech/NRevTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
